@@ -1,1 +1,3 @@
 fourthfile for example.added a line
+
+with automation
